@@ -1,0 +1,13 @@
+.贵阳  fill: #ff0000
+}
+
+.黔东南,.黔南,.黔西南 {
+    fill: #ff00ff
+}
+.六盘水,.遵义,.安顺,.毕节,.铜仁 {
+    fill: #0000ff
+}
+
+* {
+	font-family: "Microsoft Yahei" !important;
+}
